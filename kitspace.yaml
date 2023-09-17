@@ -1,0 +1,8 @@
+bom: hw/sch_pcb/LCDHOLDER2X16V01.kicad_pcb
+color: white
+eda:
+  pcb: hw/sch_pcb/LCDHOLDER2X16V01.kicad_pcb
+  type: kicad
+gerbers: hw/cam_profi/
+site: https://github.com/mlab-modules/LCDHOLDER2X16V01
+summary: The hodlder can be prited at almost any 3D printer.

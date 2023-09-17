@@ -1,0 +1,14 @@
+description: The hodlder can be prited at almost any 3D printer.
+github_branch: LCDHOLDER2X16V01A
+github_description: The hodlder can be prited at almost any 3D printer.
+github_repo: LCDHOLDER2X16V01
+github_url: https://github.com/mlab-modules/LCDHOLDER2X16V01
+homepage: false
+images:
+- doc/img/LCDHOLDER2X16V01A_QRcode.png
+- doc/img/LCDHOLDER2X16V01A_small.png
+mark: 50
+status: 0
+tags: []
+title: LCDHOLDER2X16V01
+updated: '2023-09-17T11:38:50.413134+00:00'
